@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2023-11-27T08:54:26.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="Jht1tPXvMkiG4H6wmRwI" version="21.5.1" type="device">
+  <diagram name="第 1 页" id="R_BdfXhPTXfU9Arhsoh3">
+    <mxGraphModel dx="1381" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MAqPr5Q6T4ahPJx8ZrIG-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=none;strokeColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="QVA2X8OV1MjaiMhMmF7y-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="120" width="640" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="MAqPr5Q6T4ahPJx8ZrIG-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;size=160;strokeWidth=0;rounded=1;arcSize=22;fillColor=#3C6EB4;strokeColor=none;" parent="QVA2X8OV1MjaiMhMmF7y-5" vertex="1">
+          <mxGeometry y="280" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="MAqPr5Q6T4ahPJx8ZrIG-12" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;size=160;strokeWidth=0;rounded=1;arcSize=22;flipV=1;fillColor=#FFCC00;strokeColor=none;" parent="QVA2X8OV1MjaiMhMmF7y-5" vertex="1">
+          <mxGeometry x="480" y="280" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="MAqPr5Q6T4ahPJx8ZrIG-10" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;size=-30;flipV=1;strokeWidth=0;rounded=1;fillColor=#892CA0;strokeColor=none;fontColor=#7F7F7F;fontSize=120;fontStyle=1;fontFamily=Helvetica;" parent="QVA2X8OV1MjaiMhMmF7y-5" vertex="1">
+          <mxGeometry x="160" y="440" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MAqPr5Q6T4ahPJx8ZrIG-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;size=160;strokeWidth=5;fillColor=#9DC6E7;strokeColor=none;fontSize=120;fontStyle=1;fontColor=#FFFFFF;" parent="QVA2X8OV1MjaiMhMmF7y-5" vertex="1">
+          <mxGeometry y="120" width="640" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QVA2X8OV1MjaiMhMmF7y-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;size=160;strokeWidth=5;fillColor=#FFCC00;strokeColor=none;fontSize=120;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="QVA2X8OV1MjaiMhMmF7y-5">
+          <mxGeometry y="80" width="640" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QVA2X8OV1MjaiMhMmF7y-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;size=160;strokeWidth=0;fillColor=#892CA0;strokeColor=none;fontSize=120;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="QVA2X8OV1MjaiMhMmF7y-5">
+          <mxGeometry y="40" width="640" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QVA2X8OV1MjaiMhMmF7y-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;size=160;strokeWidth=0;fillColor=#3C6EB4;strokeColor=none;fontSize=120;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="QVA2X8OV1MjaiMhMmF7y-5">
+          <mxGeometry width="640" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
